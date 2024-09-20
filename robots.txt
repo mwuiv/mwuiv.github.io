@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mwuiv.github.io/pSL/sitemap.pSL.gz
